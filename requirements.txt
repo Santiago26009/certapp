@@ -1,0 +1,16 @@
+pandas==1.2.5
+docx2txt==0.8
+flask
+CORS
+flask_cors
+Werkzeug
+sklearn
+spacy
+gensim==3.8.3
+nltk
+pymupdf
+pytesseract==0.2.6
+opencv-contrib-python-headless
+dateparser
+pillow>=6.2.0
+datefinder

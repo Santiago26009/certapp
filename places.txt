@@ -1,0 +1,725 @@
+Afganistan
+Albania
+Alemania
+Germany
+Andorra
+Angola
+Antigua y Barbuda
+Arabia Saudita
+Arabia Saudi
+Argelia
+Argentina
+Armenia
+Australia
+Austria
+Azerbaiyan
+Bahamas
+Banglades
+Barbados
+Barein
+Belgica
+Belgium
+Belice
+Bielorrusia
+Benin
+Birmania
+Myanmar
+Bolivia
+Bosnia y Herzegovina
+Bosnia-Herzegovina
+Botsuana
+Brasil
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Butan
+Cabo Verde
+Camboya
+Camerun
+Canada
+Catar
+Republica Centroafricana
+Chad
+Republica Checa
+Chequia
+Chile
+China
+Chipre
+Colombia
+Comoras
+Republica del Congo
+Republica Democrática del Congo
+Corea del Norte
+Corea del Sur
+Costa de Marfil
+Costa Rica
+Croacia
+Cuba
+Dinamarca
+Denmark
+Dominica
+Republica Dominicana
+Dominican Republic
+Ecuador
+Egipto
+Egipt
+El Salvador
+Emiratos Arabes Unidos
+Eritrea
+Eslovaquia
+Eslovenia
+Espana
+Spain
+Estados Unidos
+United States
+Estonia
+Etiopia
+Filipinas
+Finlandia
+Fiyi
+Francia
+France
+Gabon
+Gambia
+Georgia
+Ghana
+Granada
+Grecia
+Greece
+Guatemala
+Guinea
+Guinea-Bisau
+Guinea Ecuatorial
+Guyana
+Haiti
+Honduras
+Hungria
+Hungary
+India
+Indonesia
+Irak
+Iran
+Irlanda
+Ireland
+Islandia
+Iceland
+Israel
+Italia
+Italy
+Jamaica
+Japon
+Jordania
+Kazajistan
+Kenia
+Kirguistan
+Kiribati
+Kuwait
+Laos
+Lesoto
+Letonia
+Libano
+Liberia
+Libia
+Liechtenstein
+Lituania
+Luxemburgo
+Macedonia del Norte
+Madagascar
+Malasia
+Malaui
+Maldivas
+Mali
+Malta
+Marruecos
+Islas Marshall
+Mauricio
+Mauritania
+México
+Micronesia
+Moldavia
+Monaco
+Mongolia
+Montenegro
+Mozambique
+Namibia
+Nauru
+Nepal
+Nicaragua
+Nigeria
+Noruega
+Nueva Zelanda
+Nueva Zelandia
+New Zeland
+Oman
+Paises Bajos
+Netherlands
+Pakistan
+Palaos
+Palestina
+Panama
+Papua Nueva Guinea
+Paraguay
+Peru
+Polonia
+Portugal
+Reino Unido
+United Kindom
+England
+Inglaterra
+Ruanda
+Rumania
+Romania
+Rusia
+Russia
+Islas Salomon
+Samoa
+San Cristobal y Nieves
+San Marino
+San Vicente y las Granadinas
+Santa Lucia
+Santo Tome y Príncipe
+Senegal
+Serbia
+Seychelles
+Sierra Leona
+Singapur
+Siria
+Somalia
+Sri Lanka
+Suazilandia
+Esuatini
+Sudafrica
+South Africa
+Sudan
+Sudan del Sur
+Suecia
+Sweden
+Suiza
+Switzerland
+Surinam
+Tailandia
+Tanzania
+Tayikistan
+Timor Oriental
+Togo
+Tonga
+Trinidad y Tobago
+Tunez
+Turkmenistan
+Turquia
+Turkey
+Tuvalu
+Ucrania
+Ukraine
+Uganda
+Uruguay
+Uzbekistan
+Vanuatu
+Ciudad del Vaticano
+Venezuela
+Vietnam
+Yemen
+Yibuti
+Zambia
+Zimbabue
+Bogota
+Medellin
+Cali
+Barranquilla
+Cartagena
+Cartagena de Indias
+Soacha
+Cucuta
+Soledad
+Bucaramanga
+Bello
+Meta
+Tolima
+Magdalena
+Cesar
+Caldas
+Risaralda
+Córdoba
+Huila
+Narino
+Quindio
+Acapulco
+Aguascalientes
+Campeche
+Cancun
+Celaya
+Chetumal
+Chihuahua
+Chilpancingo
+Ciudad del Carmen
+Ciudad Obregon
+Ciudad Victoria
+Ciudad de Mexico
+Coatzacoalcos
+Colima-Villa de Alvarez
+Cuautla
+Cuernavaca
+Culiacan
+Cardenas
+Cordoba
+Durango
+Ensenada
+Guadalajara
+Guanajuato
+Guaymas
+Hermosillo
+Irapuato
+Juarez
+La Laguna
+La Paz
+La Piedad-Penjamo
+Leon
+Los Cabos
+Los Mochis
+Manzanillo
+Matamoros
+Mazatlan
+Mexicali
+Minatitlan
+Monclova-Frontera
+Monterrey
+Morelia
+Merida
+Nuevo Laredo
+Oaxaca
+Ocotlan
+Orizaba
+Pachuca
+Piedras Negras
+Poza Rica
+Puebla
+Puerto Vallarta
+Queretaro
+Reynosa
+Rioverde
+Ciudad Fernandez
+Salamanca
+Saltillo
+San Francisco del Rincon
+San Juan del Rio
+San Luis Potosi
+Soledad
+Tampico
+Panuco
+Tapachula
+Tecoman
+Tehuacan
+Tehuantepec
+Salina Cruz
+Tepic
+Tijuana
+Tlaxcala
+Apizaco
+Toluca
+Tula
+Tulancingo
+Tuxtla Gutierrez
+Uruapan
+Valle de Mexico
+Veracruz
+Villahermosa
+Xalapa
+Zacatecas
+Guadalupe
+Zamora
+Jacona
+Pensilvania
+Virginia
+Massachusetts
+Kentucky
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawái
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Luisiana
+Maine
+Maryland
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Montgomery
+Birmingham
+Juneau
+Anchorage
+Phoenix
+Little Rock
+Sacramento
+Denver
+Hartford
+Dover
+Tallahassee
+Atlanta
+Honolulu
+Boise
+Springfield
+Indianapolis
+Des Moines
+Topeka
+Frankfort
+Baton Rouge
+Augusta
+Annapolis
+Boston
+Lansing
+Saint Paul
+Jackson
+Jefferson City
+Helena
+Lincoln
+Carson City
+Concord
+Trenton
+Santa Fe
+Albany
+Raleigh
+Bismarck
+Columnus
+Oklahoma
+Salem
+Harrisburg
+Providence
+Columbia
+Pierre
+Nashville
+Austin
+Salt Lake
+Montpelier
+Richmond
+Olympia
+Charleston
+Madison
+Cheyenne
+Portland
+Colorado
+Filadelfia
+Las Vegas
+California
+Detroit
+Chicago
+San Francisco
+Miami
+Los Angeles
+Houston
+Seattle
+San Diego
+Milwaukee
+Delhi
+Mumbai
+Bangalore
+Chennai
+Kolkata
+Agra
+Jaipur
+Udaipur
+Jodhpur
+Jaisalmer
+Varanasi
+Panjim
+Goa
+Aurangabad
+Kochi
+Madurai
+Mysore
+Hyderabad
+Hampi
+Londres
+Birmingham
+Leeds
+Glasgow
+Sheffield
+Manchester
+Bradford
+Edimburgo
+Liverpool
+Bristol
+Coventry
+Leicester
+Cardiff
+Belfast
+Nottingham
+Stockport
+Kingston
+Dudley
+Newcastle
+Bolton
+Walsall
+Plymouth
+Sunderland
+Milton Keynes
+Wolverhampton
+Rotherham
+Southampton
+Aberdeen
+Derby
+Northampton
+Stoke
+Swansea
+Oldham
+Reading
+Luton
+Swindon
+York
+Portsmouth
+Bournemouth
+Peterborough
+Colchester
+Preston
+Southend
+Saint Helens
+Norwich
+Brighton
+Chelmsford
+Telford
+Huddersfield
+Oxford
+Dundee
+Middlesbrough
+Slough
+Newport
+Poole
+Cambridge
+Blackpool
+West Bromwich
+Exeter
+Blackburn
+Ipswich
+Gloucester
+Solihull
+Crawley
+Basildon
+Watford
+Eastbourne
+Maidstone
+Sutton coldfield
+Halifax
+Airdrie
+Brooks
+Calgary
+Camrose
+Cold Lake
+Edmonton
+Leduc
+Armstrong
+Burnaby
+Duncan
+Greenwood
+Langford
+Vancouver
+Vernon
+White Rock
+Brandon
+Saint John
+Moncton
+Bathurst
+Campbellton
+Yellowknife
+Halifax
+Sydney
+Dartmouth
+Iqaluit
+Ajax
+Aurora
+Barrie
+Belleville
+Ontario
+Manitoba
+Columbia Britanica
+Alberta
+Brampton
+Brant
+Cambridge
+Georgina
+Hamilton
+London
+Niagara Falls
+North Bay
+Ottawa
+Toronto
+Waterloo
+Quebec
+Whitehorse
+Buenos Aires
+Rosario
+Mendoza
+La Plata
+San Miguel de Tucuman
+Mar del Plata
+Salta
+San Juan
+Corrientes
+Bahia Blanca
+Resistencia
+Posadas
+Merlo
+Quilmes
+Parana
+Neuquen
+Formosa
+Lanus
+Godoy Cruz
+La Rioja
+Moreno
+San Luis
+Virrey del Pino
+Madrid
+Barcelona
+Valencia
+Sevilla
+Zaragoza
+Malaga
+Murcia
+Mallorca
+Las Palmas
+Bilbao
+Alicante
+Valladolid
+Vitoria
+La Coruna
+Granada
+Oviedo
+Tenerife
+Pamplona
+Almeria
+San Sebastian
+Burgos
+Albacete
+Santander
+Logrono
+Badajoz
+Salamanca
+Huelva
+Lerida
+Tarragona
+Cadiz
+Jaen
+Orense
+Girona
+Lugo
+Caceres
+Melilla
+Toledo
+Ceuta
+Pontevedra
+Palencia
+Ciudad Real
+Zamora
+Avila
+Cuenca
+Huesca
+Segovia
+Soria
+Teruel
+Sao Paulo
+Rio de Janeiro
+Salvador
+Brasilia
+Fortaleza
+Belo Horizonte
+Manaus
+Curitiba
+Recife
+Porto Alegre
+Belem
+Goiania
+Sao Luis
+Maceio
+Teresina
+Natal
+Campo Grande
+Joao Pessoa
+Aracaju
+Cuiaba
+Porto Velho
+Florianopolis
+Macapa
+Rio Branco
+Vitoria
+Boa vista
+Palmas
+Shangai
+Pekin
+Canton
+Shenzhen
+Tianjin
+Chongqing
+Dongguan
+Nankin
+Wuhan
+Hangzhou
+Shenyang
+Harbin
+Chengdu
+Hefei
+Beijing
+Xi An
+Nanjing
+Luoyang
+Anyang
+Kaifeng
+Yan An
+Tibet
+Suzhou
+Santiago de Chile
+Concepcion
+Valparaiso
+La Serena
+Temuco
+Antofagasta
+Punta Arenas
+Iquique
+Montevideo
+Salto
+Paysandu
+Maldonado
+Rivera
+Tacuarembo
+Melo
+Artigas
+Mercedes
+Minas
+Duranzo
+Trinidad
+Canelones
